@@ -1,5 +1,5 @@
 ﻿# bot-whatsapp-covid
-This bot can tell you about covid19 in Indonesia.
+This bot can tell you all about covid19 in Indonesia.
 
 ## How to use
 Install WhatsApp API using
