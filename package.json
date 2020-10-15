@@ -1,0 +1,24 @@
+{
+  "name": "covidwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "forever": "^3.0.2",
+    "fs": "0.0.1-security",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "sulla": "^2.3.14",
+    "sulla-hotfix": "^1.8.42",
+    "whatsapp-web.js": "^1.8.2"
+  },
+  "engines": {
+    "node": "10.16.0"
+  }
+}
